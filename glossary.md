@@ -10,5 +10,8 @@ Bad shit: it's shit but bad
 
 Beautiful cherries: delicious.
 
-Three: it's gonna cause a merge conflict.
 One: it's the loneliest number.
+
+Two: it's the loneliest number except for the number one.
+
+Three: it's gonna cause a merge conflict.
