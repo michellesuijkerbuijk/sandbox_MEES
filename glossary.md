@@ -23,3 +23,5 @@ Five: Try not to wreck everything this time.
 Six: Edited on Github.
 
 Seven: once more for the commandline freaks.
+
+Remote: connection between local and remote repository
